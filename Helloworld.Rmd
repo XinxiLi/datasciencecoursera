@@ -1,9 +1,0 @@
----
-title: "HelloWorld"
-author: "me"
-date: "2022/4/28"
-output:
-  html_document:
-    df_print: paged
----
-## This is a markdown file
